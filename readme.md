@@ -1,1 +1,3 @@
-Team 7 Quantum 
+# Team Hand Sanitzer (#7)
+
+Sample text
