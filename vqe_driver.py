@@ -3,7 +3,7 @@ from qiskit_algorithms import VQE
 from qiskit_algorithms.optimizers import COBYLA
 from qiskit_ibm_runtime import QiskitRuntimeService, Session, Estimator as RuntimeEstimator
 
-from hamiltonian_creator import sample_hamiltonian
+from hamiltonians import sample_hamiltonian
 
 # Note to team: (Phoebus)
 #   1. Replace token with your own. Get one at qiskit quant computing platform.

@@ -3,7 +3,7 @@ from qiskit.primitives import Estimator
 from qiskit_algorithms import VQE
 from qiskit_algorithms.optimizers import COBYLA
 
-from hamiltonian_creator import sample_hamiltonian
+from hamiltonians import sample_hamiltonian
 
 
 ### test hamiltonian
