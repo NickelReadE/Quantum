@@ -25,9 +25,9 @@ def sample_objective_to_hamiltonian():
     :return:
     """
     # Define constants
-    lambda_1 = 1.0  # Adjust this as needed
+    lambda_1 = 2.0  # Adjust this as needed
     lambda_2 = 1.0  # Adjust this as needed
-    lambda_3 = 2.0  # Adjust this as needed
+    lambda_3 = 3.0  # Adjust this as needed
 
     # Define samples
     r = np.array([1, 2, 3])
